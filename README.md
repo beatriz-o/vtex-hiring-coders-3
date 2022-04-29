@@ -1,1 +1,1 @@
-# vtex-hiring-coders-3
+# VTEX - Hiring Coders #3
